@@ -1,0 +1,29 @@
+https://kodekloud.com/learning-path/kubestronaut/
+
+	KCNA (Jan 2025) - 25hrs
+	https://kodekloud.com/learning-path/kcna/
+
+		- Linux - 5hrs
+		- Containers - 4hrs
+		- Kubernetes - 6hrs
+		- KCNA prep - 9hrs
+
+	CKA (Feb 2025)
+	https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator
+
+		- CKA prep - 22hrs
+
+	CKAD (March 2025)
+	https://learn.kodekloud.com/user/courses/certified-kubernetes-application-developer-ckad
+
+		- CKAD prep - 15hrs
+
+	KCSA (April 2025)
+	https://learn.kodekloud.com/user/courses/kubernetes-and-cloud-native-security-associate-kcsa
+
+		- KCSA prep - 7hrs
+	
+	CKS (July 2025) - 
+	https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks
+
+		- CKS prep - 10hrs
