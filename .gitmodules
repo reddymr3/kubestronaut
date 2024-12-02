@@ -1,0 +1,3 @@
+[submodule "kcna/linux/linux-basics-course"]
+	path = kcna/linux/linux-basics-course
+	url = git@github.com:kodekloudhub/linux-basics-course.git
